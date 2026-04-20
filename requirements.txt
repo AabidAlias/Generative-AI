@@ -1,3 +1,5 @@
 openai
 groq
 python-dotenv
+LangChain_huggingface
+LangChain_mistralai
